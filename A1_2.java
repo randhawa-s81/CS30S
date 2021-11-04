@@ -91,6 +91,8 @@ public class A1_2 {
         strin = fin.readLine();
     }// end eof loop 
     
+    System.out.println("hello");
+    
     // ***** Print Formatted Output *****
     
     // ***** Closing Message *****
