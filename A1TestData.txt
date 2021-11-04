@@ -1,0 +1,7 @@
+smith 12 85 100 95 
+jack 13 72 85 91 
+ali 14 67 90 85 
+mohammad 15 84 74 58 
+jonathan 16 48 58 34 
+sousa 17 93 84 75 
+peter 18 38 55 64
